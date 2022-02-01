@@ -1,0 +1,10 @@
+Server1 :
+	ssh -i "raviteja.pem" ubuntu@ec2-35-178-235-150.eu-west-2.compute.amazonaws.com
+	35.178.235.150
+	ubuntu
+
+
+server2 :
+	ssh -i "raviteja.pem" ubuntu@ec2-18-130-247-34.eu-west-2.compute.amazonaws.com
+	18.130.247.34
+	ubuntu
