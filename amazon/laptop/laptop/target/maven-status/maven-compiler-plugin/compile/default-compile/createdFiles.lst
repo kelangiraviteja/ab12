@@ -1,0 +1,17 @@
+amazon\service\Item.class
+amazon\service\Order$Builder.class
+amazon\service\SimpleOrderService.class
+amazon\transport\SimpleOrderServiceClient.class
+amazon\service\OrderProcessingService.class
+amazon\service\OrderFailure$Builder.class
+amazon\service\Confirmation$Builder.class
+amazon\service\Order.class
+amazon\service\Confirmation.class
+amazon\service\Item$Builder.class
+amazon\service\OrderFailure.class
+amazon\service\Order$1.class
+amazon\service\OrderProcessingService$Callback.class
+amazon\service\Item$1.class
+amazon\service\Confirmation$1.class
+amazon\service\OrderFailure$1.class
+amazon\transport\SimpleOrderServiceEndpoint.class
